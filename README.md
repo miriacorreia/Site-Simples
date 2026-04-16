@@ -1,2 +1,7 @@
-# Site-Simples
-Criação de site, usando as linguagens: HTML, CSS E JAVASCRIPT
+# Site Simples
+
+## Tecnologias utilizadas:
+HTML, CSS E JAVASCRIPT
+
+##  🌐  Acesse o projeto online:
+https://miriacorreia.github.io/Site-Simples/
